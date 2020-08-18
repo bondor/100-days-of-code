@@ -20,11 +20,11 @@
 
 ### Day 3: August 17, 2020
 
-**Today's Progress**:
+**Today's Progress**: Nearly completed video series on HTML Fundamentals, spent more time on javascript exericess, spent some time on D3 and web accessibility theory
 
-**Thoughts:**
+**Thoughts:** This is hard, but rewarding :)
 
-**Link to work:**
+**Link to work:** I'll get to it, yeesh...
 
 
 ### Day #: DATE
