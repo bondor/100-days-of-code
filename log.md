@@ -27,9 +27,27 @@
 **Link to work:** I'll get to it, yeesh...
 
 
+### Day #: Aug. 18
+
+**Today's Progress**: Today I played around more with D3 and SVGs, though I had to break my hour into four sets of 15mins, which I found less effective than spending a dedicated hour. Lesson learned. 
+
+**Thoughts:** Don't expect as much productivity with time portioning.
+
+**Link to work:** I promise.
+
+
 ### Day #: DATE
 
-**Today's Progress**:
+**Today's Progress**: 
+
+**Thoughts:**
+
+**Link to work:**
+
+
+### Day #: DATE
+
+**Today's Progress**: 
 
 **Thoughts:**
 
