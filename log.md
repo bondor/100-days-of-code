@@ -10,13 +10,13 @@
 **Link to work:** No dice.
 
 
-### Day 1: 2020-08-23
+### Day 1: 2020-08-24
 
-**Today's Progress**: 
+**Today's Progress**: Keeping on with the #javascript array sorting practice, some #CSS positioning, and some color theory.
 
-**Thoughts:**
+**Thoughts:** Need to figure out a project...
 
-**Link to work:**
+**Link to work:** 
 
 
 
