@@ -1,39 +1,23 @@
 # 100 Days Of Code - Bondor's Log
 
-### Day 1: August 15, 2020
 
-**Today's Progress**: Began my 100 Days of Code Challenge by dusting off my github account, forking this repo, and re-familiarizing myself with the flow of things.
+### Day 0: 2020-08-23
 
-**Thoughts:** Shaking off the rust is hard, but feels good.
+**Today's Progress**: Dang... made it 5 days in & fell off for 3 days, got back on today with more #D3, #SVG, and #HTML, slow but steady, will restart the counter now.
 
-**Link to work:** Under Construction! lol
+**Thoughts:** This is harder than I thought it would be.
 
-
-### Day 2: August 16, 2020
-
-**Today's Progress**: Spent over an hour crunching exercises w/ the #GrasshopperApp, great way to refresh the fundamentals. Also getting familiar and imaginative with #D3 and SVGs. I like the prospect of imagines without image files. Also spent some time on The Odin Project and read several articles recommended there.
-
-**Thoughts:** My mental bandwidth is limited.
-
-**Link to work:** Still Under Construction! Still lol
+**Link to work:** No dice.
 
 
-### Day 3: August 17, 2020
+### Day 1: 2020-08-23
 
-**Today's Progress**: Nearly completed video series on HTML Fundamentals, spent more time on javascript exericess, spent some time on D3 and web accessibility theory
+**Today's Progress**: 
 
-**Thoughts:** This is hard, but rewarding :)
+**Thoughts:**
 
-**Link to work:** I'll get to it, yeesh...
+**Link to work:**
 
-
-### Day #: Aug. 18
-
-**Today's Progress**: Today I played around more with D3 and SVGs, though I had to break my hour into four sets of 15mins, which I found less effective than spending a dedicated hour. Lesson learned. 
-
-**Thoughts:** Don't expect as much productivity with time portioning.
-
-**Link to work:** I promise.
 
 
 ### Day #: DATE
@@ -52,4 +36,3 @@
 **Thoughts:**
 
 **Link to work:**
-
